@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "preload": "preload.js",
   "author": "Seven Yu",
+  "homepage": "https://github.com/dofy/utools-show-hide-hidden-files-for-mac",
   "platform": ["darwin"],
   "logo": "logo.png",
   "main": "debug.html",
