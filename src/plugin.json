@@ -1,0 +1,22 @@
+{
+  "pluginName": "显示/隐藏 macOS 隐藏文件",
+  "description": "快速 显示/隐藏 macOS 的隐藏文件",
+  "version": "0.0.1",
+  "preload": "preload.js",
+  "author": "Seven Yu",
+  "platform": ["darwin"],
+  "logo": "logo.png",
+  "main": "debug.html",
+  "features": [
+    {
+      "code": "show",
+      "explain": "显示隐藏文件",
+      "cmds": ["show", "显示"]
+    },
+    {
+      "code": "hide",
+      "explain": "隐藏隐藏文件",
+      "cmds": ["hide", "隐藏"]
+    }
+  ]
+}
