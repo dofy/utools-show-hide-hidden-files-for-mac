@@ -4,8 +4,9 @@ const yahaha = option => {
   exec(
     `defaults write com.apple.finder AppleShowAllFiles ${option.toUpperCase()} && killall Finder`,
   )
-  utools.hideMainWindow()
   utools.showNotification('😁 设置成功')
+  utools.hideMainWindow()
+  utools.outPlugin()
 }
 
 window.exports = {
