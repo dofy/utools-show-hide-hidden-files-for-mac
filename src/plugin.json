@@ -11,13 +11,13 @@
     {
       "code": "show",
       "icon": "show.png",
-      "explain": "显示隐藏文件",
+      "explain": "显示 macOS 隐藏文件",
       "cmds": ["show", "显示"]
     },
     {
       "code": "hide",
       "icon": "hide.png",
-      "explain": "隐藏隐藏文件",
+      "explain": "隐藏 macOS 隐藏文件",
       "cmds": ["hide", "隐藏"]
     }
   ]
