@@ -1,7 +1,7 @@
 {
   "pluginName": "显示/隐藏 macOS 隐藏文件",
   "description": "快速 显示/隐藏 macOS 的隐藏文件",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "preload": "preload.js",
   "author": "Seven Yu",
   "homepage": "https://github.com/dofy/utools-show-hide-hidden-files-for-mac",
